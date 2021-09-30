@@ -2,11 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://github.com/gmananthu3"><img title="Author" src="https://img.shields.io/badge/Author-gmananthu3/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
+<H2><c>JACK FF</c></H2>
 </div>
 <p align="center">
 Project created by <a href="https://github.com/gmananthu3">gmananthu3</a> to make it public
@@ -19,12 +15,12 @@ Project created by <a href="https://github.com/gmananthu3">gmananthu3</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/gmananthu3/JulieMwol">
+  <a href="httsp://github.com/gmananthu3/Ammukutty">
     
 <a href="https://github.com/gmananthu3/followers"><img title="Followers" src="https://img.shields.io/github/followers/gmananthu3?color=blue&style=flat-square"></a>
-<a href="https://github.com/gmananthu3/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gmananthu3/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/gmananthu3/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gmananthu3/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/gmananthu3/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gmananthu3/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/gmananthu3/Ammukutty/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gmananthu3/Ammukutty?color=blue&style=flat-square"></a>
+<a href="https://github.com/gmananthu3/Ammukutty/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gmananthu3/Ammukutty?color=blue&style=flat-square"></a>
+<a href="https://github.com/gmananthu3/Ammukutty/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gmananthu3/Ammukutty?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -44,7 +40,7 @@ Click WA logo to Join Support Group 👇
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gmananthu3/Julie-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/Ammukutty)
   
      </div>
 <br>
@@ -60,8 +56,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/gmananthu3/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/gmananthu3/Ammukutty
+$ cd Ammukutty
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -70,8 +66,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/gmananthu3/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/gmananthu3/Ammukutty
+$ cd Ammukutty
 $ chmod +x *
 $ npm i
 $ node qr.js
