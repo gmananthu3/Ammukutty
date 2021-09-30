@@ -18,10 +18,10 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Owned by Farhan_Dqz*' , MessageType.text, { quoted: message.data });
+            await message.client.sendMessage(message.jid,'*Owned by JACK FF*' , MessageType.text, { quoted: message.data });
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n\n---------------------', MessageType.text, { quoted: message.data });
+            await message.client.sendMessage(message.jid,Config.OWNER + '\n\n whatsapp: 918943082947@s.whatsapp.net', MessageType.text, { quoted: message.data });
         }
     }));
 }
@@ -36,10 +36,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'\n*Owned by Farhan_Dqz*/n' , MessageType.text, { quoted: message.data });
+            await message.client.sendMessage(message.jid,'\n*Owned by JACK FF */n' , MessageType.text, { quoted: message.data });
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text, { quoted: message.data });
+            await message.client.sendMessage(message.jid,Config.OWNER + '\n\n whtaspp: 918943082947@s.whatsapp.net', MessageType.text, { quoted: message.data });
         }
     }));
 }
